@@ -1,0 +1,7 @@
+1. В index.html <meta name="viewport" content=...> -tagi
+2.CSS voi sisältää esim. fullscreen-tyylin jolla sovellus levitetään koko ruudulle
+3. registroidaan service worker ja käytetään service workeriä
+sw.js-tiedoston avulla, jossa sen toiminta on määritelty.
+4. Tehdään manifest.json ja linkki siihen index.html-ään
+5. Laitetaan sovellukseen ikonit ja manifest.jsoniin viittauksen ikoneihin
+6. laitetaan index.html-ään linkkeja ikoneihin ja meta-tageja Safari- ja Edge -selaimia varten.
